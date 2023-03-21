@@ -1,6 +1,8 @@
 ### Task Description: 
 Building a data processing pipeline in Lambda which takes CSVs from S3, processes them by converting the content of the CSVs to JSON and send the response to SQS(message queue).
 
+**Have also created this documentation for further understanding on the Terraform functionality used [TF-Doc.md](TF-Doc.md)**
+
 ### AWS Services Involved:
 * S3
 * Lambda
